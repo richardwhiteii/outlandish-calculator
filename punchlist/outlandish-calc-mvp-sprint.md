@@ -6,7 +6,7 @@ The Outlandish Calculator is a theatrical CLI Python application that performs m
 {
   "project": "outlandish-calc",
   "sprint_slug": "mvp",
-  "repo": "test/outlandish-calc",
+  "repo": "richardwhiteii/outlandish-calculator",
   "ticket_prefix": "CALC",
   "total_tickets": 14,
   "estimated_hours": 30,
